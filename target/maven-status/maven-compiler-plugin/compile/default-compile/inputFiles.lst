@@ -1,0 +1,5 @@
+/home/docker/kubernetes/foodiesk8sreplicaset/src/main/java/com/foodies/ServletInitializer.java
+/home/docker/kubernetes/foodiesk8sreplicaset/src/main/java/com/foodies/form/ReservationForm.java
+/home/docker/kubernetes/foodiesk8sreplicaset/src/main/java/com/foodies/controller/ReservationController.java
+/home/docker/kubernetes/foodiesk8sreplicaset/src/main/java/com/foodies/ReservationDto.java
+/home/docker/kubernetes/foodiesk8sreplicaset/src/main/java/com/foodies/FoodiesApplication.java

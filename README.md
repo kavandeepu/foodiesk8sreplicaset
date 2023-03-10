@@ -1,1 +1,2 @@
-# foodiesk8sreplicaset
+# foodies
+foodies application with dynamic content demonstration
